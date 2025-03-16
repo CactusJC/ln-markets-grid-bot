@@ -1,0 +1,8 @@
+network: mainnet
+upper_bound: 84000
+lower_bound: 82000
+num_levels: 5
+position_size: 10         # in USD
+leverage: 1
+interval: 60              # hoofdloop-interval (in seconden)
+takeprofit_percent: 0.4   # 0.4% take profit
